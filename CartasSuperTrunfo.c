@@ -7,6 +7,8 @@ printf(" Desafio Cadastro de Cartas!\n");
     float Area, Pib;
     char Estado;
 
+    // Entrada dos Dados 1
+    
     printf("Digite o numero da carta: \n");
 scanf("%d", &Cartas);
 
